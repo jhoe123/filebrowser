@@ -1,0 +1,22 @@
+{
+	"name": "File Browser",
+	"description": "File Browser",
+	"packageId": "filebrowser",
+	"build": 1,
+	"version": "2.22.4",
+	"program": "filebrowser",
+	"programArgs": null,
+	"activityGroup": {
+		"customLink": ":3005",
+		"customPort": 0,
+		"activities": null
+	},
+	"permissions": null,
+	"exportService": true,
+	"location": "system",
+	"nodejs": false,
+	"packagerVersion": "0.1.0",
+	"exposePorts": [
+		3005
+	]
+}
