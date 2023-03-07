@@ -2,8 +2,8 @@
 	"name": "File Browser",
 	"description": "File Browser",
 	"packageId": "filebrowser",
-	"build": 1,
-	"version": "2.22.4",
+	"build": 3,
+	"version": "2.22.5",
 	"program": "filebrowser",
 	"programArgs": null,
 	"activityGroup": {
@@ -12,11 +12,15 @@
 		"activities": null
 	},
 	"permissions": null,
-	"exportService": true,
 	"location": "system",
 	"nodejs": false,
 	"packagerVersion": "0.1.0",
 	"exposePorts": [
 		3005
-	]
+	],
+	"icons": {
+		"small": "",
+		"medium": "icons/medium.svg",
+		"large": ""
+	}
 }

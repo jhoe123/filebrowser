@@ -1,4 +1,7 @@
 {
     "config": "info.json",
-    "binDir": "bin"
+    "binDir": "bin",
+    "icons": {
+        "medium": "icon.svg"
+    }
 }
